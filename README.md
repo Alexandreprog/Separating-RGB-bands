@@ -1,3 +1,3 @@
 # Separating-RGB-bands
 
-Seperar as bandas RGB de uma imagem usando a biblioteca PIL
+Seperando as bandas RGB de uma imagem usando a biblioteca PIL
